@@ -1,7 +1,9 @@
-package com.prdapp.prd_app;
+package com.prdapp.prd_app.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.prdapp.prd_app.R;
 
 public class MainActivity extends AppCompatActivity {
 
